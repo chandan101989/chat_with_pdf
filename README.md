@@ -2,4 +2,4 @@
 
 ## The chatbot created looks like the image shown below:
 
-![chat_with_pdf](C:\Users\admin\Pictures\Screenshots\chat_with_pdf.png)
+![Capture](F:\ENKEFALOS PROJECT\PROJECTS_LIST\pdf_chat_bot\chat_with_pdf.png)
